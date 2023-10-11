@@ -1,2 +1,3 @@
 # 100-Days-Coding
 # Ahmad Khanif Izzah Arifin
+Hello, my name is Ahmad Khanif Izzah Arifin, currently enroll at Sulawesi Barat University, as a student at informatic engineering faculty.....
