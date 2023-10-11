@@ -1,4 +1,4 @@
-# Biodata Singkat
+# Bio
 # Ahmad Khanif Izzah Arifin
 Howdy !, my name is Ahmad Khanif Izzah Arifin, and I am currently a student at the Sulawesi Barat University, studying Informatics in the Faculty of Engineering.
 
