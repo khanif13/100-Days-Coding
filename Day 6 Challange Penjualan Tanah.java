@@ -2,9 +2,9 @@ package pkg100.days.coding;
 import java.util.Scanner ;
 public class Day6ChallangePenjualanTanah {
     public static void main(String[] args) {
-/* Buatlah program yang dapat mengetahui berapa uang bersih yang 
-   didapatkan dari hasil penjualan tanah setelah dipotong pajak 
-   dengan ketentuan:
+
+/* 
+Buatlah program yang dapat mengetahui berapa uang bersih yang didapatkan dari hasil penjualan tanah setelah dipotong pajak dengan ketentuan:
      1. Harga Jual Permeter adalah Rp 300.000
      2. Jika total harga jual 50 jt keatas maka dikenakan pajak 3%
      3. Jika Total harga jual 100 jt keatas maka dikenakan pajak 5%
