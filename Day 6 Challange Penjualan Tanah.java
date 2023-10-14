@@ -19,7 +19,7 @@ public class Day6ChallangePenjualanTanah {
         pajak = 0.05; // Pajak 5% penjualan diatas Rp. 100jt
     }
     
-    else if(totalHarga > 50000000) {
+    else if (totalHarga > 50000000) {
         pajak = 0.03 ; // Pajak 3% penjualan diatas Rp. 50jt
     }
     else if (totalHarga < 50000000) {
