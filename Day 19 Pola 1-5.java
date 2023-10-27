@@ -1,7 +1,7 @@
 package pkg100.days.coding;
 public class Day19Pola {
     public static void main(String[] args) {
-         System.out.println("--------------------");
+        System.out.println("--------------------");
         System.out.println("Pola 1");
         System.out.println("--------------------");
         int pola1 = 6;
