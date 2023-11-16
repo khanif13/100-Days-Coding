@@ -42,6 +42,9 @@ public class Day35 {
                 menu = "Ayam Geprek";
                 System.out.println("Pilihan anda adalah menu "+menu+" \nDengan total pesanan Rp. "+total);
                 break;
+            default :
+                System.out.println("Pilihan anda tidak sesuai");
+                break;
         }
         
     }
