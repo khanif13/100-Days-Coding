@@ -1,6 +1,6 @@
 package pkg100.days.coding;
 import java.util.Scanner ; 
-public class Day12PErulanganMInMax {
+public class MinMax {
     public static void main(String[] args) {
         
         
