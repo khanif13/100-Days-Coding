@@ -10,14 +10,14 @@ public class Main {
         ArrayList data = new ArrayList();
         
         //Data dari ArrayList
-        data.add("Rifky");
+        data.add("Khanif");
         data.add("Informatika");
         data.add('E');
         data.add(1);
-        data.add("galau");
+        data.add("ganteng");
         
         //menghapus nilai pada index tertentu
-        data.remove("galau");
+        data.remove("ganteng");
         
         //Menampilkan isi data ArrayList
         System.out.println("Isi Data ArrayList : "+data);
