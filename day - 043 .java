@@ -14,13 +14,13 @@ public class Day43 {
 
         for (int i = 1; i <= pola26x; i++) {
             for (int j = 1; j <= pola26y; j++) {
-                if (true) {
+                
                     if (i % 2 == 1) {
                         System.out.print("+ ");
                     } else {
                         System.out.print("= ");
                     }
-                }
+                
             }
             System.out.println();
         }
