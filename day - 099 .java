@@ -21,7 +21,7 @@ public class Membaca{
         String nama, ttl;
         
         System.out.print("Input Nama\t: ");
-        nama = input.nextLine();
+        nama = input.nextLine(); // btw disini tadi saya kebalik, next itu kata pertama saja, pakai line kalau berspasi (emote maaf)
         
         System.out.print("Input TTL\t: ");
         ttl = input.nextLine();
